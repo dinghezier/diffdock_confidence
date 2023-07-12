@@ -1,0 +1,2 @@
+complex_name,protein_path,ligand_description,protein_sequence
+0,data/PDBBind_processed/6qqw/6qqw_protein_processed.pdb,data/PDBBind_processed/6qqw/6qqw_ligand.mol2,
